@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           {/* Brand Column */}
           <div>
             <Link to="/" className="inline-block mb-6">
-              <img src="/logo.png" alt="GreenGlow Logo" className="h-14 bg-white rounded-full p-1" />
+              <img src="/logo.png" alt="GreenGlow" className="h-14 bg-white rounded-full p-1" />
             </Link>
             <p className="text-neutral-200 mb-6">
               Eco-friendly, natural skincare products that nourish your skin and the planet.

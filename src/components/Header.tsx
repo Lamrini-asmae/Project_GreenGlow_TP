@@ -24,7 +24,7 @@ const Header: React.FC<HeaderProps> = ({ scrolled }) => {
         <Link to="/" className="flex items-center" onClick={closeMenu}>
           <img 
             src="/logo.png" 
-            alt="GreenGlow Logo" 
+            alt="GreenGlow" 
             className="h-12 md:h-14"
           />
         </Link>
