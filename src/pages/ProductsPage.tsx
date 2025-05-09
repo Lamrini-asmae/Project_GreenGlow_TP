@@ -40,7 +40,7 @@ const PRODUCTS: Product[] = [
     category: "Moisturizers",
     price: 39.99,
     description: "Rich overnight moisturizer with shea butter and vitamin E for deep nourishment.",
-    image: "https://images.pexels.com/photos/6621409/pexels-photo-6621409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "https://images.pexels.com/photos/6621365/pexels-photo-6621365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     featured: true,
     new: false
   },
@@ -56,7 +56,7 @@ const PRODUCTS: Product[] = [
   },
   {
     id: 5,
-    name: "Vitamin C Brightening Serum",
+    name: "Vitamin C Brightening",
     category: "Serums",
     price: 44.99,
     description: "Powerful antioxidant serum that brightens skin tone and reduces dark spots.",
@@ -80,7 +80,7 @@ const PRODUCTS: Product[] = [
     category: "Toners",
     price: 22.99,
     description: "Alcohol-free toner that soothes and balances the skin after cleansing.",
-    image: "https://images.pexels.com/photos/6621264/pexels-photo-6621264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "https://images.pexels.com/photos/6621329/pexels-photo-6621329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     featured: false,
     new: false
   },
@@ -90,7 +90,7 @@ const PRODUCTS: Product[] = [
     category: "Eye Care",
     price: 36.99,
     description: "Targeted treatment that reduces puffiness, dark circles, and fine lines around the eyes.",
-    image: "https://images.pexels.com/photos/6621144/pexels-photo-6621144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "https://images.pexels.com/photos/6621329/pexels-photo-6621329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     featured: false,
     new: false
   },
@@ -100,7 +100,7 @@ const PRODUCTS: Product[] = [
     category: "Body Care",
     price: 26.99,
     description: "Lightweight, fast-absorbing lotion that hydrates and softens skin all day long.",
-    image: "https://images.pexels.com/photos/6621351/pexels-photo-6621351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "https://images.pexels.com/photos/6621365/pexels-photo-6621365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     featured: false,
     new: false
   }

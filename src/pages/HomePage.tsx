@@ -187,7 +187,7 @@ const HomePage: React.FC = () => {
               transition={{ type: "spring", stiffness: 300 }}
             >
               <img 
-                src="https://images.pexels.com/photos/6621409/pexels-photo-6621409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/6621333/pexels-photo-6621333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt="Nourishing Night Cream" 
                 className="w-full h-64 object-cover"
               />

@@ -32,14 +32,10 @@ const AboutPage: React.FC = () => {
             >
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <p className="text-neutral-700 mb-6">
-                GreenGlow was founded in 2018 by Lisa Chen, a botanist and skincare enthusiast who was frustrated 
-                with the harmful chemicals found in most commercial skincare products. After her mother developed 
-                skin sensitivities to conventional products, Lisa began researching natural alternatives.
+                At GreenGlow, we believe that beauty should be as pure as nature itself. Our startup is dedicated to crafting and delivering natural, eco-friendly cosmetic products made exclusively from organic and ethically sourced ingredients.
               </p>
               <p className="text-neutral-700 mb-6">
-                Using her background in botany and passion for natural wellness, Lisa developed a line of 
-                skincare products using only clean, plant-based ingredients. What started as a small operation 
-                in her kitchen has grown into a beloved brand trusted by thousands of customers worldwide.
+                We are passionate about providing high-quality skincare and beauty solutions that not only enhance your well-being but also protect the planet. From moisturizers and serums to facial cleansers and body care, every GreenGlow product is carefully formulated to be free of harmful chemicals, parabens, and synthetic fragrances.
               </p>
               <p className="text-neutral-700">
                 Today, GreenGlow remains committed to its founding principles: creating effective, natural 
